@@ -1,1 +1,1 @@
-check
+apt install -y httpd
